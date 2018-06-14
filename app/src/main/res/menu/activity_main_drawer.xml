@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_login"
+            android:title="@string/login_word" />
+        <item android:id="@+id/nav_register"
+            android:title="Регистрация" />
+        <item android:id="@+id/nav_profile"
+            android:title="Профиль" />
+        <item android:id="@+id/nav_order"
+            android:title="@string/order_word" />
+        <item android:id="@+id/nav_driver_map"
+            android:title="Водитель" />
+        <!--<item android:id="@+id/nav_map"
+            android:title="@string/map_word" />-->
+    </group>
+
+</menu>

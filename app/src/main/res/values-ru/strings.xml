@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ТАКСИ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="title_activity_login">Войти</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_fragment_title">Заказ</string>
+
+    <!-- Map toasts -->
+    <string name="searching_toast">Поиск</string>
+    <string name="driver_road_toast">Машина в пути</string>
+    <string name="waiting_taxi_toast">Такси ожидает</string>
+    <string name="order_progress_toast">Заказ выполняется</string>
+    <string name="order_completed_toast">Заказ завершён</string>
+
+    <!-- Simple words -->
+    <string name="from_word">Откуда</string>
+    <string name="to_word">Куда</string>
+    <string name="duration_word">Время</string>
+    <string name="distance_word">Расстояние</string>
+    <string name="send_word">Отправить</string>
+    <string name="seats_word">Места</string>
+    <string name="comfort_class_word">Класс комфорта</string>
+    <string name="exists_word">В наличии</string>
+    <string name="baby_chair_word">Детское кресло</string>
+    <string name="login_word">Войти</string>
+    <string name="order_word">Заказать</string>
+    <string name="map_word">Карта</string>
+    <string name="dispute">Открыть спор</string>
+    <string name="cost">Стоимость</string>
+    <string name="next_btn">Далее</string>
+    <string name="order_second_subtitle">Выберите класс комфорта</string>
+    <string name="low_comfort">Эконом (58 руб.)</string>
+    <string name="middle_comfort">Премиум (102 руб.)</string>
+    <string name="high_comfort">Высокий комфорт</string>
+    <string name="seats">Места</string>
+    <string name="seats_number">Количество мест</string>
+    <string name="price_taxi_call">Стоимость вызова такси</string>
+    <string name="cost_of_travel">Стоимость поездки</string>
+    <string name="cost_of_babychair">Стоимость детского кресла (кресел)</string>
+    <string name="cancel_word">Отменить</string>
+    <string name="feedback">Поставить оценку водителю</string>
+    <string name="address_wod">Адрес</string>
+    <string name="success_order_word">Завершить заказ</string>
+    <string name="send">Отправить</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="driver">Водитель</string>
+</resources>

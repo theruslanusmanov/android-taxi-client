@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">TAXI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_fragment_title">Order</string>
+
+    <!-- Map toasts -->
+    <string name="searching_toast">Searching</string>
+    <string name="driver_road_toast">The driver is on the road</string>
+    <string name="waiting_taxi_toast">Taxi is waiting</string>
+    <string name="order_progress_toast">Order in progress</string>
+    <string name="order_completed_toast">Order completed</string>
+
+    <!-- Simple words -->
+    <string name="from_word">From</string>
+    <string name="to_word">To</string>
+    <string name="duration_word">Duration</string>
+    <string name="distance_word">Distance</string>
+    <string name="send_word">Send</string>
+    <string name="seats_word">Seats</string>
+    <string name="comfort_class_word">Comfort class</string>
+    <string name="exists_word">Exists</string>
+    <string name="baby_chair_word">Baby chair</string>
+    <string name="login_word">Login</string>
+    <string name="order_word">Order</string>
+    <string name="map_word">Map</string>
+    <string name="dispute">Dispute</string>
+    <string name="cost">Cost</string>
+
+    <!-- Complex strings -->
+    <string name="complex_from_text">%1$s: %2$s</string>
+    <string name="complex_to_text">%1$s: %2$s</string>
+    <string name="complex_duration_text">%1$s: %2$s</string>
+    <string name="complex_distance_text">%1$s: %2$s</string>
+    <string name="complex_cost_text">%1$s: %2$s</string>
+    <string name="next_btn">Next</string>
+    <string name="order_second_subtitle">Choose your comfort class</string>
+    <string name="low_comfort">Low comfort</string>
+    <string name="middle_comfort">Middle comfort</string>
+    <string name="high_comfort">High comfort</string>
+    <string name="seats">Seats</string>
+    <string name="seats_number">Seats number</string>
+    <string name="price_taxi_call">Price for a taxi call</string>
+    <string name="cost_of_travel">The cost of travel</string>
+    <string name="cost_of_babychair">The price of a child seat</string>
+    <string name="cancel_word">Cancel</string>
+    <string name="feedback">Feedback</string>
+    <string name="address_wod">Address</string>
+    <string name="success_order_word">Success order</string>
+    <string name="send">Send</string>
+    <string name="register">Register</string>
+    <string name="driver">Driver</string>
+</resources>
