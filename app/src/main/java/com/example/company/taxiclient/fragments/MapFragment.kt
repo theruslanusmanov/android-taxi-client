@@ -123,26 +123,6 @@ class MapFragment : Fragment(), OnMapReadyCallback {
 
     private fun mapInit(map: GoogleMap) {
 
-        /*********** INIT DATA **************/
-        val bundle = Bundle()
-        bundle.putBoolean("searchStatus", true)
-
-        bundle.putString("from", "ТРК ТАНДЕМ")
-        bundle.putString("to", "Олимп")
-        bundle.putDouble("fromLat", 55.829977)
-        bundle.putDouble("fromLng", 49.117964)
-        bundle.putDouble("toLat", 55.819764)
-        bundle.putDouble("toLng", 49.140729)
-
-        bundle.putString("comfortClass", "Средний комфорт")
-        bundle.putString("seats", "Премиум")
-        this.setArguments(bundle)
-
-        //mapRequestData = MapRequestData("Park house", "Olymp", parkHouse, olymp)
-
-        /*************** END INIT DATA *************/
-
-
         this.map = map
         googleDirectionProvider = GoogleDirectionProvider(GOOGLE_DIRECTION_API)
 

@@ -13,13 +13,17 @@ import android.widget.Toast
 import com.example.company.taxiclient.R
 import com.example.company.taxiclient.data.PlaceAutocompleteFragmentData
 import kotlinx.android.synthetic.main.fragment_order_third_step.*
+import android.widget.CompoundButton
+
+
 
 class OrderThirdStepFragment : Fragment() {
 
     lateinit var fromPlaceAutocompleteFragmentData: PlaceAutocompleteFragmentData
     lateinit var toPlaceAutocompleteFragmentData: PlaceAutocompleteFragmentData
     var comfortClass: Int? = null
-    lateinit var seats: RadioButton
+    var seatsAdult: Int? = null
+    var seatsChild: Int? = null
     var babyChairExists: Boolean = true
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
@@ -35,18 +39,36 @@ class OrderThirdStepFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        seatsgroup.setOnCheckedChangeListener { group, checkedId ->
+        seatsgroupAdult.setOnCheckedChangeListener { group, checkedId ->
             // This will get the radiobutton that has changed in its check state
             val checkedRadioButton = group.findViewById(checkedId) as RadioButton
             // This puts the value (true/false) into the variable
             val isChecked = checkedRadioButton.isChecked
             // If the radiobutton that has changed in check state is now checked...
             if (isChecked) {
-                seats = checkedRadioButton
+                seatsAdult = checkedRadioButton.id
                 // Changes the textview's text to "Checked: example radiobutton text"
                 Log.d("CHECK","Checked:" + checkedRadioButton.text)
             }
         }
+
+        seatsgroupChild.setOnCheckedChangeListener { group, checkedId ->
+            // This will get the radiobutton that has changed in its check state
+            val checkedRadioButton = group.findViewById(checkedId) as RadioButton
+            // This puts the value (true/false) into the variable
+            val isChecked = checkedRadioButton.isChecked
+            // If the radiobutton that has changed in check state is now checked...
+            if (isChecked) {
+                seatsChild = checkedRadioButton.id
+                // Changes the textview's text to "Checked: example radiobutton text"
+                Log.d("CHECK","Checked:" + checkedRadioButton.text)
+            }
+        }
+
+        checkBox.setOnCheckedChangeListener{ button, isChecked ->
+            babyChairExists = button.isChecked
+        }
+
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -78,14 +100,22 @@ class OrderThirdStepFragment : Fragment() {
         bundle.putDouble("toLat", toPlaceAutocompleteFragmentData.latitude)
         bundle.putDouble("toLng", toPlaceAutocompleteFragmentData.longitude)
 
-        //bundle.putInt("comfortClass", comfortClass!!)
-        //bundle.putString("seats", seats.text.toString())
+        bundle.putInt("comfortClass", comfortClass!!)
+        bundle.putBoolean("babyChairExists", babyChairExists)
+
+        if (babyChairExists) {
+            seatsAdult = seatsAdult ?: radioButton1.id
+            seatsChild = seatsChild ?: radioButtonChild1.id
+
+            bundle.putInt("seatsAdult", seatsAdult!!)
+            bundle.putInt("seatsChild", seatsChild!!)
+        }
 
         return bundle
     }
 
     private fun buttonClicked(view: View) {
-        Toast.makeText(view.context, "Sending...", Toast.LENGTH_SHORT).show()
+        //Toast.makeText(view.context, "Sending...", Toast.LENGTH_SHORT).show()
 
         val mapFragment = MapFragment()
         mapFragment.setArguments(makeMapRequestBundle())

@@ -61,14 +61,14 @@
         app:layout_constraintTop_toBottomOf="@+id/order_subtitle3">
 
         <RadioGroup
-            android:id="@+id/seatsgroup"
+            android:id="@+id/seatsgroupAdult"
             android:layout_width="364dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:orientation="horizontal">
 
             <RadioButton
-                android:id="@+id/radioButton12"
+                android:id="@+id/radioButton1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -76,21 +76,21 @@
                 android:text="1 (10 руб.)" />
 
             <RadioButton
-                android:id="@+id/radioButton14"
+                android:id="@+id/radioButton2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="2 (20 руб.)" />
 
             <RadioButton
-                android:id="@+id/radioButton13"
+                android:id="@+id/radioButton3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="3 (30 руб.)" />
 
             <RadioButton
-                android:id="@+id/radioButton11"
+                android:id="@+id/radioButton4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -135,14 +135,14 @@
             android:text="@string/exists_word" />
 
         <RadioGroup
-            android:id="@+id/seatsgroup"
+            android:id="@+id/seatsgroupChild"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:orientation="horizontal">
 
             <RadioButton
-                android:id="@+id/radioButton12"
+                android:id="@+id/radioButtonChild1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -150,7 +150,7 @@
                 android:text="1 (12руб.)" />
 
             <RadioButton
-                android:id="@+id/radioButton14"
+                android:id="@+id/radioButtonChild2"
                 android:layout_width="74dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"

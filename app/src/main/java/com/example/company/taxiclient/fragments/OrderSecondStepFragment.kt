@@ -58,7 +58,7 @@ class OrderSecondStepFragment : Fragment() {
             if (isChecked) {
                 comfortClass = checkedRadioButton.id
                 // Changes the textview's text to "Checked: example radiobutton text"
-                Log.d("CHECK", "Checked:" + checkedRadioButton.text)
+                Log.d("CHECK", "Checked:" + checkedRadioButton.id)
             }
         }
     }
@@ -75,7 +75,8 @@ class OrderSecondStepFragment : Fragment() {
         bundle.putDouble("toLat", toPlaceAutocompleteFragmentData.latitude)
         bundle.putDouble("toLng", toPlaceAutocompleteFragmentData.longitude)
 
-        //bundle.putInt("comfortClass", comfortClass!!)
+        comfortClass = comfortClass ?: radioButton_a.id
+        bundle.putInt("comfortClass", comfortClass!!)
         return bundle
     }
 
