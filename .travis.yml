@@ -1,0 +1,14 @@
+language: android
+android:
+  components:
+  - build-tools-26.0.2
+  - android-26
+  - extra-google-google_play_services
+  - extra-google-m2repository
+  - extra-android-m2repository
+  - addon-google_apis-google-26
+  - sys-img-armeabi-v7a-android-26
+  - sys-img-armeabi-v7a-android-17
+before_install:
+  - openssl aes-256-cbc -K $encrypted_437b80daa468_key -iv $encrypted_437b80daa468_iv
+  -in gradle.properties.enc -out gradle.properties -d
