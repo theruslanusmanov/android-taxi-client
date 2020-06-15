@@ -1,4 +1,4 @@
-# Taxi client appllication
+# Taxi client application
 
 Simple taxi client application based on Google Maps API and Google Directions API   
 
