@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/ruslan/.gradle/caches/transforms-2/files-2.1/c7209da5feb5a9a2920e4bd83635d413/cardview-1.0.0/res/values-v23/values-v23.xml",

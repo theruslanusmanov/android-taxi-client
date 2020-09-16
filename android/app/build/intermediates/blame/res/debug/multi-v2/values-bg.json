@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
+            "outputFile": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "/home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/res/values-bg/values.xml",

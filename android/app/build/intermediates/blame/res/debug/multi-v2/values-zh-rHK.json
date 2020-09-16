@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "/home/ruslan/.gradle/caches/transforms-2/files-2.1/2777781471a727f09f2a043847733cad/jetified-play-services-places-17.0.0/res/values-zh-rHK/values.xml",

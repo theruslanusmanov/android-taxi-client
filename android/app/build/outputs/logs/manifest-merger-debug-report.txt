@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
 MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:2:1-23:12
@@ -72,33 +72,33 @@ MERGED from [com.google.android.datatransport:transport-api:2.1.0] /home/ruslan/
 MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4492442d3d412e24620364fe78bcb41d/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:16:1-19:12
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:2:1-13:12
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
 	package
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:3:11-47
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:3:11-47
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:10:5-78
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:10:5-78
 MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:9:5-79
 MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:9:5-79
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:19:5-79
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:10:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:11:5-67
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:11:5-67
 MERGED from [com.akexorcist:googledirectionlibrary:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c21251d63a562b92c72f6a92b547c8fd/jetified-googledirectionlibrary-1.1.1/AndroidManifest.xml:11:5-67
@@ -112,9 +112,9 @@ MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:15:5-67
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:11:22-64
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:11:22-64
 application
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:13:5-53:19
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:13:5-53:19
 MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -158,67 +158,67 @@ MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradl
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:19:13-39
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:19:13-39
 	android:label
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:17:13-45
 	android:roundIcon
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:18:13-58
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:18:13-58
 	android:icon
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:16:13-47
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:16:13-47
 	android:allowBackup
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:15:13-39
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:15:13-39
 	android:theme
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:20:13-44
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:14:13-45
 uses-library#org.apache.http.legacy
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:9-88
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:23:9-88
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
 	android:required
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:61-85
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:23:61-85
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:23-60
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:23:23-60
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:33:9-35:58
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:33:9-35:58
 	android:value
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:35:17-56
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:35:17-56
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:34:17-62
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:34:17-62
 meta-data#preloaded_fonts
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:9-94
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:37:9-94
 	android:resource
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:51-92
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:37:51-92
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:20-50
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:37:20-50
 activity#com.github.owlruslan.rider.ui.modes.passanger.search.MapsActivity
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:39:9-42:20
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:39:9-42:20
 	android:label
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:41:17-60
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:41:17-60
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:40:17-97
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:40:17-97
 activity#com.github.owlruslan.rider.ui.MainActivity
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:43:9-52:20
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:43:9-52:20
 	android:label
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:45:17-49
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:45:17-49
 	android:theme
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:46:17-60
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:46:17-60
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:44:17-48
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:44:17-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:47:13-51:29
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:47:13-51:29
 action#android.intent.action.MAIN
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:48:17-68
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:48:17-68
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:48:25-66
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:48:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:50:17-76
+ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:50:17-76
 	android:name
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:50:27-74
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:50:27-74
 uses-sdk
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
@@ -355,16 +355,16 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /home/ruslan/.gradle/cach
 MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4492442d3d412e24620364fe78bcb41d/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:18:3-42
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:10:5-76
 MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:18:5-76

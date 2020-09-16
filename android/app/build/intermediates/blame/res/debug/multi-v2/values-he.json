@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "outputFile": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
             "map": [
                 {
                     "source": "/home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/res/values-he/values-he.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/res/values-v21/values-v21.xml",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/res/values-v21/styles.xml",
+                    "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

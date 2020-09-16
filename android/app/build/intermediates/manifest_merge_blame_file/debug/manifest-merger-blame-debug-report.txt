@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+8-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+9-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml
 10
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -16,11 +16,11 @@
 14         location permissions for the 'MyLocation' functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:10:5-78
-16-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:10:22-76
+16-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:10:5-78
+16-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:10:22-76
 17    <uses-permission android:name="android.permission.INTERNET" />
-17-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:11:5-67
-17-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:11:22-64
+17-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:11:5-67
+17-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:11:22-64
 18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
 18-->[com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:10:5-76
 18-->[com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:10:22-73
@@ -45,34 +45,34 @@
 27-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:12:22-65
 28
 29    <application
-29-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:13:5-53:19
+29-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:13:5-53:19
 30        android:name="com.github.owlruslan.rider.RiderApplication"
-30-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:14:13-45
+30-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:14:13-45
 31        android:allowBackup="true"
-31-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:15:13-39
+31-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:15:13-39
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:24:18-86
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:icon="@mipmap/ic_launcher"
-35-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:16:13-47
+35-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:16:13-47
 36        android:label="@string/app_name"
-36-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:17:13-45
+36-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:17:13-45
 37        android:roundIcon="@mipmap/ic_launcher_round"
-37-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:18:13-58
+37-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:18:13-58
 38        android:supportsRtl="true"
-38-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:19:13-39
+38-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:19:13-39
 39        android:testOnly="true"
 40        android:theme="@style/AppTheme" >
-40-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:20:13-44
+40-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:20:13-44
 41
 42        <!-- To fix bug Failed resolution of: Lorg/apache/http/ProtocolVersion; -->
 43        <uses-library
-43-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:9-88
+43-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:23:9-88
 44            android:name="org.apache.http.legacy"
-44-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:23-60
+44-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:23:23-60
 45            android:required="false" />
-45-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:61-85
+45-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:23:61-85
 46
 47        <!--
 48             The API key for Google Maps-based APIs is defined as a string resource.
@@ -83,42 +83,42 @@
 53             You can define the keys for the debug and release targets in src/debug/ and src/release/.
 54        -->
 55        <meta-data
-55-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:33:9-35:58
+55-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:33:9-35:58
 56            android:name="com.google.android.geo.API_KEY"
-56-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:34:17-62
+56-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:34:17-62
 57            android:value="@string/google_maps_key" />
-57-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:35:17-56
+57-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:35:17-56
 58        <meta-data
-58-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:9-94
+58-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:37:9-94
 59            android:name="preloaded_fonts"
-59-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:20-50
+59-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:37:20-50
 60            android:resource="@array/preloaded_fonts" />
-60-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:51-92
+60-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:37:51-92
 61
 62        <activity
-62-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:39:9-42:20
+62-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:39:9-42:20
 63            android:name="com.github.owlruslan.rider.ui.modes.passanger.search.MapsActivity"
-63-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:40:17-97
+63-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:40:17-97
 64            android:label="@string/title_activity_maps" >
-64-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:41:17-60
+64-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:41:17-60
 65        </activity>
 66        <activity
-66-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:43:9-52:20
+66-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:43:9-52:20
 67            android:name="com.github.owlruslan.rider.ui.MainActivity"
-67-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:44:17-48
+67-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:44:17-48
 68            android:label="@string/app_name"
-68-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:45:17-49
+68-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:45:17-49
 69            android:theme="@style/AppTheme.NoActionBar" >
-69-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:46:17-60
+69-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:46:17-60
 70            <intent-filter>
-70-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:47:13-51:29
+70-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:47:13-51:29
 71                <action android:name="android.intent.action.MAIN" />
-71-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:48:17-68
-71-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:48:25-66
+71-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:48:17-68
+71-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:48:25-66
 72
 73                <category android:name="android.intent.category.LAUNCHER" />
-73-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:50:17-76
-73-->/home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:50:27-74
+73-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:50:17-76
+73-->/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/AndroidManifest.xml:50:27-74
 74            </intent-filter>
 75        </activity>
 76        <activity
