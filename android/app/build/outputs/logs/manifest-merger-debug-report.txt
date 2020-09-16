@@ -1,0 +1,489 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.dagger:dagger-android-support:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/95213b144322b70ad652df040bf40034/jetified-dagger-android-support-2.29.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/ec6cc170e8ab9b93b9325bb2da6c2408/appcompat-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/cd92369ac4bf270430777cef9f01871e/jetified-core-ktx-1.5.0-alpha02/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0ee984f342fe24a7bbccc6da4da94c1b/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c7209da5feb5a9a2920e4bd83635d413/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/076f786bd3356cd31c2c25a4e6eb8238/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha05] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6fb17a8e19cd64170af383bb3d0915e0/recyclerview-1.2.0-alpha05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2777781471a727f09f2a043847733cad/jetified-play-services-places-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.akexorcist:googledirectionlibrary:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c21251d63a562b92c72f6a92b547c8fd/jetified-googledirectionlibrary-1.1.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.dagger:dagger-android:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/88d1552e77e7dbfc4193b54aca438c41/jetified-dagger-android-2.29.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/39ebc4cf8cb9e0f91bcccfbeab32cf9b/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e5e405c6030822239813a982835392b7/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c3141a7e14977022c6c0e93703072ba1/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9c55adbfec081a27b9b3263d75850a49/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e069ac86cd5e896c993a57beddf33f91/fragment-1.3.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0ee60a6c2ac8950baf2e0b9ce4b8d67d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/d89f5ebf8b568de855e5c904c0dd1a36/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1cdc46e3094817798895aadf00bc96c7/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/f27f31111a58ffe7a2df711198c19142/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /home/ruslan/.gradle/caches/transforms-2/files-2.1/8ddcacd02bee2e4ecc5a2933f4693dc2/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/49e52f32f20b8468d08de96b981f0bb4/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02970b4ed63a7e4c8fac246850101806/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/902c5acd001a5a36e866913e83fbd414/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/7a30a620afff21535365dbb6b2598237/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/f7973ce3b73f99ec74f1d7ed7e10180b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0547f6cc4189adffc9734c5d7f7465df/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1e3e96ebaa985334a73349093aea93f2/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9e0bc914ab68d073ea7fa6d73f6db120/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/60d327c8233c46ffd15d5ca4717cda80/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/34a78877b19be9b2385f74c6884a5c83/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4758bd8d280125927d04f0616d0e9bd1/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0c2c01f9d7d83e74a43e2e25e260f06/jetified-mapbox-android-gestures-0.7.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3ec108f2860a9f60bc7864ce9886cfe9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/63e17cc53370c323e5be0c98dbdb5021/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4f3e183eee4fcfd5d37a49898deae2d7/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5ce33a2b59e728956b1c5e11f2fa2a8c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3824718e545cf2f30cff594ea6c78936/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /home/ruslan/.gradle/caches/transforms-2/files-2.1/d1d3aa47b928be56f717d75b9132c786/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/dbadf182f795a9e33b99063cb5678ecb/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6446c24ab2a1ecd2d1dcbbae15183fba/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5378be5c1595eab74b09174c3d78cbb9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/791bfb64930326ec700a50f96fe2bd0a/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02798deba80efca9ba86f44198fca25b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/43bcf24891cb710615682b6574eb757c/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4b99b054baf4de8332b19d53e9e4aa96/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/90741939ff11e87740d0d7bdd3b8bbc9/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/b1af9835be7d5beb6703469aa1bb9bc7/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3dce17d3c19f05fd4dbd8599c51b18b2/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5822145550e6214f31e81a48418b8d52/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/34d48c4308e9a53c56122ca2ce28a1f9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1872025495ba5bf9b3d73aa946ed8fab/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/eacb22e15a65ef91543f4d7305e899c1/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1d6524b03399ac0ea02a62aa5aded89c/jetified-transport-api-2.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4492442d3d412e24620364fe78bcb41d/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:3:11-47
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:10:5-78
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:9:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:11:5-67
+MERGED from [com.akexorcist:googledirectionlibrary:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c21251d63a562b92c72f6a92b547c8fd/jetified-googledirectionlibrary-1.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.akexorcist:googledirectionlibrary:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c21251d63a562b92c72f6a92b547c8fd/jetified-googledirectionlibrary-1.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:13:5-53:19
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2777781471a727f09f2a043847733cad/jetified-play-services-places-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2777781471a727f09f2a043847733cad/jetified-play-services-places-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/39ebc4cf8cb9e0f91bcccfbeab32cf9b/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/39ebc4cf8cb9e0f91bcccfbeab32cf9b/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e5e405c6030822239813a982835392b7/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e5e405c6030822239813a982835392b7/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c3141a7e14977022c6c0e93703072ba1/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c3141a7e14977022c6c0e93703072ba1/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9c55adbfec081a27b9b3263d75850a49/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9c55adbfec081a27b9b3263d75850a49/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1cdc46e3094817798895aadf00bc96c7/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1cdc46e3094817798895aadf00bc96c7/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:17:5-27:19
+MERGED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02798deba80efca9ba86f44198fca25b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02798deba80efca9ba86f44198fca25b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.volley:volley:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/eacb22e15a65ef91543f4d7305e899c1/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/eacb22e15a65ef91543f4d7305e899c1/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:19:13-39
+	android:label
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:17:13-45
+	android:roundIcon
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:18:13-58
+	android:icon
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:16:13-47
+	android:allowBackup
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:15:13-39
+	android:theme
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:14:13-45
+uses-library#org.apache.http.legacy
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:9-88
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:61-85
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:23:23-60
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:33:9-35:58
+	android:value
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:35:17-56
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:34:17-62
+meta-data#preloaded_fonts
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:9-94
+	android:resource
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:51-92
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:37:20-50
+activity#com.github.owlruslan.rider.ui.modes.passanger.search.MapsActivity
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:41:17-60
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:40:17-97
+activity#com.github.owlruslan.rider.ui.MainActivity
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:45:17-49
+	android:theme
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:46:17-60
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:44:17-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml:50:27-74
+uses-sdk
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/80c60b26b453864c5b6c40e3ff26511a/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2504df3743b695dba8f8f673d83d5c9f/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:7:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/95213b144322b70ad652df040bf40034/jetified-dagger-android-support-2.29.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/95213b144322b70ad652df040bf40034/jetified-dagger-android-support-2.29.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/ec6cc170e8ab9b93b9325bb2da6c2408/appcompat-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/ec6cc170e8ab9b93b9325bb2da6c2408/appcompat-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/cd92369ac4bf270430777cef9f01871e/jetified-core-ktx-1.5.0-alpha02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/cd92369ac4bf270430777cef9f01871e/jetified-core-ktx-1.5.0-alpha02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0ee984f342fe24a7bbccc6da4da94c1b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0ee984f342fe24a7bbccc6da4da94c1b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c7209da5feb5a9a2920e4bd83635d413/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c7209da5feb5a9a2920e4bd83635d413/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/076f786bd3356cd31c2c25a4e6eb8238/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/076f786bd3356cd31c2c25a4e6eb8238/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha05] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6fb17a8e19cd64170af383bb3d0915e0/recyclerview-1.2.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha05] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6fb17a8e19cd64170af383bb3d0915e0/recyclerview-1.2.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2777781471a727f09f2a043847733cad/jetified-play-services-places-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/2777781471a727f09f2a043847733cad/jetified-play-services-places-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.akexorcist:googledirectionlibrary:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c21251d63a562b92c72f6a92b547c8fd/jetified-googledirectionlibrary-1.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.akexorcist:googledirectionlibrary:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c21251d63a562b92c72f6a92b547c8fd/jetified-googledirectionlibrary-1.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/88d1552e77e7dbfc4193b54aca438c41/jetified-dagger-android-2.29.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/88d1552e77e7dbfc4193b54aca438c41/jetified-dagger-android-2.29.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/39ebc4cf8cb9e0f91bcccfbeab32cf9b/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/39ebc4cf8cb9e0f91bcccfbeab32cf9b/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e5e405c6030822239813a982835392b7/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e5e405c6030822239813a982835392b7/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c3141a7e14977022c6c0e93703072ba1/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/c3141a7e14977022c6c0e93703072ba1/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9c55adbfec081a27b9b3263d75850a49/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9c55adbfec081a27b9b3263d75850a49/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e069ac86cd5e896c993a57beddf33f91/fragment-1.3.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e069ac86cd5e896c993a57beddf33f91/fragment-1.3.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0ee60a6c2ac8950baf2e0b9ce4b8d67d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0ee60a6c2ac8950baf2e0b9ce4b8d67d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/d89f5ebf8b568de855e5c904c0dd1a36/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/d89f5ebf8b568de855e5c904c0dd1a36/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1cdc46e3094817798895aadf00bc96c7/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1cdc46e3094817798895aadf00bc96c7/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/f27f31111a58ffe7a2df711198c19142/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/f27f31111a58ffe7a2df711198c19142/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /home/ruslan/.gradle/caches/transforms-2/files-2.1/8ddcacd02bee2e4ecc5a2933f4693dc2/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /home/ruslan/.gradle/caches/transforms-2/files-2.1/8ddcacd02bee2e4ecc5a2933f4693dc2/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/49e52f32f20b8468d08de96b981f0bb4/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/49e52f32f20b8468d08de96b981f0bb4/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02970b4ed63a7e4c8fac246850101806/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02970b4ed63a7e4c8fac246850101806/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/902c5acd001a5a36e866913e83fbd414/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/902c5acd001a5a36e866913e83fbd414/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/7a30a620afff21535365dbb6b2598237/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/7a30a620afff21535365dbb6b2598237/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/f7973ce3b73f99ec74f1d7ed7e10180b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/f7973ce3b73f99ec74f1d7ed7e10180b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0547f6cc4189adffc9734c5d7f7465df/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/0547f6cc4189adffc9734c5d7f7465df/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1e3e96ebaa985334a73349093aea93f2/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1e3e96ebaa985334a73349093aea93f2/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9e0bc914ab68d073ea7fa6d73f6db120/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9e0bc914ab68d073ea7fa6d73f6db120/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/60d327c8233c46ffd15d5ca4717cda80/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/60d327c8233c46ffd15d5ca4717cda80/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/34a78877b19be9b2385f74c6884a5c83/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/34a78877b19be9b2385f74c6884a5c83/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4758bd8d280125927d04f0616d0e9bd1/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4758bd8d280125927d04f0616d0e9bd1/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0c2c01f9d7d83e74a43e2e25e260f06/jetified-mapbox-android-gestures-0.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0c2c01f9d7d83e74a43e2e25e260f06/jetified-mapbox-android-gestures-0.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.loader:loader:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3ec108f2860a9f60bc7864ce9886cfe9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3ec108f2860a9f60bc7864ce9886cfe9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/63e17cc53370c323e5be0c98dbdb5021/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/63e17cc53370c323e5be0c98dbdb5021/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4f3e183eee4fcfd5d37a49898deae2d7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4f3e183eee4fcfd5d37a49898deae2d7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha02] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5416abd0143111cd173fd876ebd23924/core-1.5.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5ce33a2b59e728956b1c5e11f2fa2a8c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5ce33a2b59e728956b1c5e11f2fa2a8c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3824718e545cf2f30cff594ea6c78936/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3824718e545cf2f30cff594ea6c78936/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /home/ruslan/.gradle/caches/transforms-2/files-2.1/d1d3aa47b928be56f717d75b9132c786/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /home/ruslan/.gradle/caches/transforms-2/files-2.1/d1d3aa47b928be56f717d75b9132c786/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/dbadf182f795a9e33b99063cb5678ecb/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/dbadf182f795a9e33b99063cb5678ecb/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6446c24ab2a1ecd2d1dcbbae15183fba/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6446c24ab2a1ecd2d1dcbbae15183fba/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5378be5c1595eab74b09174c3d78cbb9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5378be5c1595eab74b09174c3d78cbb9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/791bfb64930326ec700a50f96fe2bd0a/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/791bfb64930326ec700a50f96fe2bd0a/jetified-mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02798deba80efca9ba86f44198fca25b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/02798deba80efca9ba86f44198fca25b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/43bcf24891cb710615682b6574eb757c/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/43bcf24891cb710615682b6574eb757c/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4b99b054baf4de8332b19d53e9e4aa96/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4b99b054baf4de8332b19d53e9e4aa96/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/90741939ff11e87740d0d7bdd3b8bbc9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/90741939ff11e87740d0d7bdd3b8bbc9/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/b1af9835be7d5beb6703469aa1bb9bc7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/b1af9835be7d5beb6703469aa1bb9bc7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3dce17d3c19f05fd4dbd8599c51b18b2/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/3dce17d3c19f05fd4dbd8599c51b18b2/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5822145550e6214f31e81a48418b8d52/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/5822145550e6214f31e81a48418b8d52/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/34d48c4308e9a53c56122ca2ce28a1f9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/34d48c4308e9a53c56122ca2ce28a1f9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1872025495ba5bf9b3d73aa946ed8fab/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1872025495ba5bf9b3d73aa946ed8fab/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/eacb22e15a65ef91543f4d7305e899c1/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/eacb22e15a65ef91543f4d7305e899c1/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1d6524b03399ac0ea02a62aa5aded89c/jetified-transport-api-2.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1d6524b03399ac0ea02a62aa5aded89c/jetified-transport-api-2.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4492442d3d412e24620364fe78bcb41d/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.29.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/4492442d3d412e24620364fe78bcb41d/jetified-dagger-lint-aar-2.29.1/AndroidManifest.xml:18:3-42
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruslan/Projects/pet/rider-mobile-taxi-client/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:10:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.3.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/04e029d0c170ed48a8071181fb1661d5/jetified-places-2.3.0/AndroidManifest.xml:15:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e544979b7b9f662ec5028e23d6107267/jetified-mapbox-android-core-2.0.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:9:5-11:35
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/555c0689c20d680c47d61a559d6b0403/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/72437c3b67cc9690f122620933988f3e/jetified-transport-backend-cct-2.1.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/af0e41227ac46efe42aeb195de49f1f3/jetified-transport-runtime-2.1.0/AndroidManifest.xml:33:13-132
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/aa5e7e6f16ccf5ccf70be9e97815ed0d/jetified-mapbox-android-sdk-9.2.1/AndroidManifest.xml:13:9-45
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/e0646b31a000ee1fec5c4fb85074587a/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/ruslan/.gradle/caches/transforms-2/files-2.1/6cf1d9c9bb53847db46caae8f3931902/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/20df5a98efd5542d84bc9bac1c6ac129/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] /home/ruslan/.gradle/caches/transforms-2/files-2.1/9a09caf2415e541d313bcbc020c23b45/jetified-mapbox-android-telemetry-5.0.1/AndroidManifest.xml:25:13-93
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ruslan/.gradle/caches/transforms-2/files-2.1/1236c4a9e908947d751d2f2e7cf6bc90/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
