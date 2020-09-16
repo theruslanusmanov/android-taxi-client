@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content" android:paddingEnd="32dp"
+              android:paddingStart="32dp" android:layout_marginBottom="8dp">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/viewPagerTopItemLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:background="@drawable/outline_round_8dp" android:padding="2dp">
+
+            <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp" tools:srcCompat="@tools:sample/avatars[3]"
+                    android:id="@+id/imageView2" android:layout_marginTop="8dp"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginStart="8dp" android:layout_marginBottom="8dp"
+                    app:layout_constraintBottom_toBottomOf="parent" app:srcCompat="@color/colorAccent"/>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+                    app:layout_constraintStart_toEndOf="@+id/imageView2" android:layout_marginStart="24dp"
+                    android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
+                    android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="parent">
+                <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" tools:layout_editor_absoluteY="16dp"
+                        tools:layout_editor_absoluteX="16dp" android:layout_weight="1"
+                        android:gravity="center_vertical">
+                    <TextView
+                            android:text="Ride L"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" android:id="@+id/textView2"
+                            tools:layout_editor_absoluteY="16dp"
+                            tools:layout_editor_absoluteX="99dp" android:fontFamily="@font/roboto_black"
+                            android:textSize="14sp" android:textColor="@android:color/black"/>
+                    <TextView
+                            android:text="4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView3"
+                            android:drawableLeft="@drawable/ic_person" android:textSize="12sp"
+                            android:fontFamily="@font/roboto_black"/>
+                    <TextView
+                            android:text="Good deal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView4"
+                            android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" tools:layout_editor_absoluteY="16dp"
+                        tools:layout_editor_absoluteX="16dp" android:layout_weight="1"
+                        android:gravity="right|center_vertical|end">
+                    <TextView
+                            android:text="10.27 $"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView8"
+                            android:textAlignment="textEnd" android:fontFamily="@font/roboto_medium"
+                            android:textSize="14sp" android:textColor="@android:color/black"/>
+                    <TextView
+                            android:text="12:19-12:24"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView9"
+                            android:textAlignment="textEnd" android:textSize="12sp"
+                            android:textColor="@color/colorPrimaryDark" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/viewPagerBottomItemLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_constraintEnd_toEndOf="parent" android:padding="2dp">
+
+            <ImageView
+                    android:layout_width="64dp"
+                    android:layout_height="64dp" tools:srcCompat="@tools:sample/avatars[3]"
+                    android:id="@+id/imageView2" android:layout_marginTop="8dp"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginStart="8dp" android:layout_marginBottom="8dp"
+                    app:layout_constraintBottom_toBottomOf="parent" app:srcCompat="@color/colorAccent"/>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+                    app:layout_constraintStart_toEndOf="@+id/imageView2" android:layout_marginStart="24dp"
+                    android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
+                    android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="parent">
+                <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" tools:layout_editor_absoluteY="16dp"
+                        tools:layout_editor_absoluteX="16dp" android:layout_weight="1"
+                        android:gravity="center_vertical">
+                    <TextView
+                            android:text="Ride L"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" android:id="@+id/textView2"
+                            tools:layout_editor_absoluteY="16dp"
+                            tools:layout_editor_absoluteX="99dp" android:fontFamily="@font/roboto_black"
+                            android:textSize="14sp" android:textColor="@android:color/black"/>
+                    <TextView
+                            android:text="4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView3"
+                            android:drawableLeft="@drawable/ic_person" android:textSize="12sp"
+                            android:fontFamily="@font/roboto_black"/>
+                    <TextView
+                            android:text="Good deal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView4"
+                            android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" tools:layout_editor_absoluteY="16dp"
+                        tools:layout_editor_absoluteX="16dp" android:layout_weight="1"
+                        android:gravity="right|center_vertical|end">
+                    <TextView
+                            android:text="10.27 $"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView8"
+                            android:textAlignment="textEnd" android:fontFamily="@font/roboto_medium"
+                            android:textSize="14sp" android:textColor="@android:color/black"/>
+                    <TextView
+                            android:text="12:19-12:24"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" android:id="@+id/textView9"
+                            android:textAlignment="textEnd" android:textSize="12sp"
+                            android:textColor="@color/colorPrimaryDark" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</LinearLayout>

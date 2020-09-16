@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_person.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/anim_slide_in_down.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/anim/slide_in_down.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_add.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_outline_round_8dp.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/outline_round_8dp.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/font_roboto_medium.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/font/roboto_medium.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu_manage.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_search_input_collapsed.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/search_input_collapsed.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/anim_slide_out_up.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_map.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/map.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu_share.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_car.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_car.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_my_location.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_payment.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_payment.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_arrow_forward.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fragment_driver_ride.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fragment_driver_ride.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_search_header_collapsed.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/search_header_collapsed.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu_slideshow.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_viewpager_item.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/viewpager_item.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu_send.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_driver_info_cardview.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/driver_info_cardview.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu_gallery.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fragment_driver_search.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fragment_driver_search.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_source.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_source.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fragment_passanger_complete.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fragment_passanger_complete.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_clear.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_menu_camera.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/anim_slide_out_down.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_app_bar_main.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fab_menu.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fab_menu.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_outline_round_32dp.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/outline_round_32dp.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/font_roboto_black.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/font/roboto_black.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_arrow_back.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fragment_passanger_ride.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fragment_passanger_ride.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fragment_driver_complete.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fragment_driver_complete.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_destination.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_destination.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fragment_passenger_search.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fragment_passenger_search.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/anim_slide_in_up.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_star.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_search_input_expanded.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/search_input_expanded.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_place.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_place.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_pulse_circle.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/pulse_circle.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_search_header_expanded.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/search_header_expanded.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_searchlist_item_view.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/searchlist_item_view.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_fab_my_location.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/fab_my_location.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/drawable_rounded_ractangle.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/drawable/rounded_ractangle.xml"
+    },
+    {
+        "merged": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/build/intermediates/res/merged/debug/anim_pulse.xml.flat",
+        "source": "/home/ruslan/Projects/pet/rider-android-taxi-client/app/src/main/res/anim/pulse.xml"
+    }
+]

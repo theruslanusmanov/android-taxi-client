@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/fragment_map"
+                android:background="@android:color/white">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <include
+                layout="@layout/fab_menu"
+                android:id="@+id/include3"/>
+
+        <include layout="@layout/fab_my_location"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="@+id/include2"
+                 android:layout_marginEnd="8dp" android:layout_marginBottom="8dp"
+                 app:layout_constraintBottom_toBottomOf="@+id/include2"/>
+
+        <include layout="@layout/map" android:elevation="0dp" android:id="@+id/include2"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</RelativeLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:layout_gravity="center_vertical">
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp" android:id="@+id/linearLayout3" android:layout_gravity="center_vertical"
+            android:paddingBottom="4dp" android:paddingTop="4dp">
+
+        <TextView
+                android:text="Start"
+                android:layout_width="32dp"
+                android:layout_height="0dp" android:id="@+id/textView6"
+                android:textSize="12sp" android:fontFamily="@font/roboto_medium"
+                android:textColor="@color/colorPrimary"
+                app:layout_constraintEnd_toStartOf="@+id/inputStartPoint"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:gravity="center_vertical|end"
+                android:layout_marginEnd="16dp"/>
+
+        <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:background="@null"
+                android:ems="10"
+                android:id="@+id/inputStartPoint" android:hint="Current location" android:textSize="14sp"
+                android:fontFamily="@font/roboto_medium"
+                app:layout_constraintStart_toEndOf="@+id/textView6" app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" app:layout_constraintBottom_toBottomOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout4" android:layout_gravity="center_vertical"
+            android:paddingBottom="4dp">
+
+        <TextView
+                android:text="End"
+                android:layout_width="32dp"
+                android:layout_height="0dp" android:id="@+id/textView7"
+                android:textSize="12sp" android:fontFamily="@font/roboto_medium"
+                android:textColor="@color/colorAccent"
+                app:layout_constraintEnd_toStartOf="@+id/inputEndPoint"
+                app:layout_constraintTop_toTopOf="@+id/inputEndPoint" app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintBottom_toBottomOf="@+id/inputEndPoint"
+                android:gravity="center_vertical|end" android:layout_marginEnd="16dp"/>
+
+        <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:background="@null"
+                android:ems="10"
+                android:id="@+id/inputEndPoint" android:hint="Search destination" android:textSize="14sp"
+                android:fontFamily="@font/roboto_medium" android:drawableEnd="@drawable/ic_add"
+                app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toEndOf="@+id/textView7"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

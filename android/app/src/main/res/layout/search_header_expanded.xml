@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="50dp">
+
+    <TextView
+            android:text="Trip"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" android:id="@+id/btnClose"
+            android:textSize="18sp" android:drawableStart="@drawable/ic_clear" android:drawablePadding="14dp"
+            android:textColor="@android:color/black" android:fontFamily="@font/roboto_black"
+            android:gravity="center_vertical" android:layout_weight="1"/>
+    <TextView
+            android:text="Done"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" android:id="@+id/btnDone" android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="14sp" android:fontFamily="@font/roboto_medium" android:textAlignment="textEnd"/>
+</LinearLayout>

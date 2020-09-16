@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                     xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                     xmlns:tools="http://schemas.android.com/tools"
+                                                     android:orientation="vertical"
+                                                     android:layout_width="match_parent"
+                                                     android:layout_height="match_parent"
+                                                     android:paddingEnd="16dp"
+                                                     android:layout_gravity="bottom"
+                                                     app:layout_constraintTop_toTopOf="parent"
+                                                     android:paddingStart="16dp" android:layout_marginTop="36dp"
+                                                     tools:background="@color/quantum_grey">
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
+            app:behavior_peekHeight="240dp"
+            app:cardCornerRadius="16dp" app:cardElevation="4dp" android:clickable="true"
+            android:id="@+id/bottomSheetDriverInfoCardView"
+            android:layout_marginBottom="-16dp">
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:background="@android:color/white" android:padding="4dp">
+            <View
+                    android:layout_width="64dp"
+                    android:layout_height="4dp" android:id="@+id/view3" android:layout_gravity="center"
+                    android:background="@drawable/rounded_ractangle"/>
+            <TextView
+                    android:text="CAR REQUESTED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/textView12"
+                    android:fontFamily="@font/roboto_medium"
+                    android:textSize="14sp" android:textColor="@android:color/black" android:textAlignment="center"
+                    android:padding="16dp"/>
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#aaa"
+                    android:orientation="vertical" android:id="@+id/view"/>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <TextView
+                        android:text="Contacting nearby drivers"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" android:id="@+id/textView13" android:layout_weight="1"
+                        android:textSize="18sp" android:fontFamily="@font/roboto_medium" android:padding="24dp"
+                        android:textColor="@android:color/black"/>
+                <ImageView
+                        android:layout_width="64dp"
+                        android:layout_height="64dp" app:srcCompat="@android:color/darker_gray"
+                        android:id="@+id/imageView4" android:layout_weight="1" android:layout_margin="24dp"/>
+            </LinearLayout>
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#aaa"
+                    android:orientation="vertical" android:id="@+id/view2"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
